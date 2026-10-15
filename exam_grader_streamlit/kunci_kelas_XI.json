@@ -1,0 +1,261 @@
+{
+  "kelas": "XI",
+  "mata_pelajaran": "Informatics",
+  "sekolah": "SMA Boash Excellent",
+  "tahun": "2026-2027",
+  "total_skor": 100,
+  "soal": [
+    {
+      "no": "1",
+      "soal": "Seorang siswa membuat file spreadsheet bernama Data Nilai Kelas X.xlsx yang berisi tiga sheet (Data Siswa, Nilai, Rekap). Pernyataan yang paling tepat adalah ....",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "B. Data Nilai Kelas X.xlsx merupakan workbook yang di dalamnya terdapat beberapa worksheet",
+      "nilai": 2
+    },
+    {
+      "no": "2",
+      "soal": "Apa fungsi utama penambahan simbol dolar ($) pada alamat sel, contohnya $A$1, saat menuliskan rumus di spreadsheet?",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "D. Mengunci posisi baris dan kolom (absolute reference)",
+      "nilai": 2
+    },
+    {
+      "no": "3",
+      "soal": "Rumus =if (B2>=75,”Tuntas”, “Remedial”). Jika angka pada sel B2 adalah 70, maka hasil yang ditampilkan?",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "D. Remedial",
+      "nilai": 2
+    },
+    {
+      "no": "4",
+      "soal": "Formula yang paling tepat untuk menghitung rata-rata nilai dari rentang sel C2 hingga C25 adalah...",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. =AVERAGE(C2:C25)",
+      "nilai": 2
+    },
+    {
+      "no": "5",
+      "soal": "Apa yang dimaksud dengan dekomposisi dalam berpikir komputasional?",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "B. Memecah masalah besar menjadi bagian-bagian yang lebih kecil dan mudah dikelola",
+      "nilai": 2
+    },
+    {
+      "no": "6",
+      "soal": "Algoritma dalam berpikir komputasional paling tepat diartikan sebagai…",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "B. Serangkaian langkah berurutan dan logis untuk menyelesaikan masalah",
+      "nilai": 2
+    },
+    {
+      "no": "7",
+      "soal": "Manakah pasangan yang paling tepat antara fondasi berpikir komputasional dengan contoh penerapannya?",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. Pengenalan pola – menemukan kesamaan cara mengurutkan data",
+      "nilai": 2
+    },
+    {
+      "no": "8",
+      "soal": "Konsep dasar kerja Arduino yang menggambarkan alur penerimaan data, pengolahan, dan hasil adalah ...",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. Input → Process → Output",
+      "nilai": 2
+    },
+    {
+      "no": "9",
+      "soal": "Pin pada Arduino Uno yang digunakan untuk memberikan atau membaca kondisi digital seperti HIGH dan LOW adalah ...",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. Digital pin",
+      "nilai": 2
+    },
+    {
+      "no": "10",
+      "soal": "Tujuan penggunaan pinMode(13, OUTPUT) adalah ...",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. Menentukan pin 13 sebagai output",
+      "nilai": 2
+    },
+    {
+      "no": "11",
+      "soal": "Bagian program yang dijalankan berulang-ulang selama Arduino aktif",
+      "jenis": "Menjodohkan",
+      "jawaban": "Loop() / void loop()",
+      "nilai": 2
+    },
+    {
+      "no": "12",
+      "soal": "Perintah Python yang digunakan untuk membuat percabangan pertama.",
+      "jenis": "Menjodohkan",
+      "jawaban": "IF",
+      "nilai": 2
+    },
+    {
+      "no": "13",
+      "soal": "Perintah yang digunakan untuk menentukan sebuah pin sebagai INPUT atau OUTPUT.",
+      "jenis": "Menjodohkan",
+      "jawaban": "PinMode() / pinMode()",
+      "nilai": 2
+    },
+    {
+      "no": "14",
+      "soal": "Digunakan ketika kondisi pada if tidak terpenuhi.",
+      "jenis": "Menjodohkan",
+      "jawaban": "Else",
+      "nilai": 2
+    },
+    {
+      "no": "15",
+      "soal": "Bagian spreadsheet yang tersusun secara horizontal dan diberi nomor 1, 2, 3, dan seterusnya.",
+      "jenis": "Menjodohkan",
+      "jawaban": "Row / Baris",
+      "nilai": 2
+    },
+    {
+      "no": "16",
+      "soal": "Rumus =IF(B2>=75,\\",
+      "jenis": "Benar/Salah",
+      "jawaban": "Benar (√)",
+      "nilai": 2
+    },
+    {
+      "no": "17",
+      "soal": "Percabangan digunakan agar program dapat memilih tindakan berdasarkan suatu kondisi.",
+      "jenis": "Benar/Salah",
+      "jawaban": "Benar (√)",
+      "nilai": 2
+    },
+    {
+      "no": "18",
+      "soal": "Variabel digunakan untuk menyimpan data yang dapat digunakan dan diolah oleh program.",
+      "jenis": "Benar/Salah",
+      "jawaban": "Benar (√)",
+      "nilai": 2
+    },
+    {
+      "no": "19",
+      "soal": "Fungsi input() dapat digunakan untuk menerima masukan dari pengguna.",
+      "jenis": "Benar/Salah",
+      "jawaban": "Benar (√)",
+      "nilai": 2
+    },
+    {
+      "no": "20",
+      "soal": "Percabangan if-else hanya dapat digunakan untuk memproses data berupa angka.",
+      "jenis": "Benar/Salah",
+      "jawaban": "Salah (X) — if-else dapat digunakan untuk berbagai tipe data (string, boolean, dll).",
+      "nilai": 2
+    },
+    {
+      "no": "21",
+      "soal": "Fungsi Python yang digunakan untuk menampilkan informasi ke layar adalah __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "print() / print",
+      "nilai": 3
+    },
+    {
+      "no": "22",
+      "soal": "Langkah-langkah logis dan sistematis untuk menyelesaikan suatu masalah disebut __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "Algoritma",
+      "nilai": 3
+    },
+    {
+      "no": "23",
+      "soal": "Operator % digunakan untuk mendapatkan __________ hasil pembagian.",
+      "jenis": "Isian Singkat",
+      "jawaban": "sisa (remainder / modulo)",
+      "nilai": 3
+    },
+    {
+      "no": "24",
+      "soal": "Sensor cahaya → Arduino → lampu. Sensor cahaya berperan sebagai __________, Arduino sebagai __________, dan lampu sebagai __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "Input ; Process ; Output",
+      "nilai": 3
+    },
+    {
+      "no": "25",
+      "soal": "Fungsi setup() pada program Arduino dijalankan sebanyak __________ kali ketika Arduino mulai bekerja atau di-reset.",
+      "jenis": "Isian Singkat",
+      "jawaban": "1 (satu) kali",
+      "nilai": 3
+    },
+    {
+      "no": "26",
+      "soal": "Jika nilai B7 = 75, rumus =IF(B7>=75,\\",
+      "jenis": "Isian Singkat",
+      "jawaban": "LULUS",
+      "nilai": 3
+    },
+    {
+      "no": "27",
+      "soal": "Jika ingin mencari jumlah total nilai dari data B2 sampai B10, rumus yang digunakan adalah __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "=SUM(B2:B10)",
+      "nilai": 3
+    },
+    {
+      "no": "28",
+      "soal": "Perintah digitalWrite() digunakan untuk memberikan kondisi __________ atau __________ pada digital pin.",
+      "jenis": "Isian Singkat",
+      "jawaban": "HIGH atau LOW",
+      "nilai": 3
+    },
+    {
+      "no": "29",
+      "soal": "Fungsi yang dijalankan secara terus-menerus selama Arduino aktif adalah __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "loop() / void loop()",
+      "nilai": 3
+    },
+    {
+      "no": "30",
+      "soal": "Rumus pada spreadsheet umumnya diawali dengan simbol __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "= (sama dengan)",
+      "nilai": 3
+    },
+    {
+      "no": "31a",
+      "soal": "Tuliskan rumus yang digunakan untuk menghitung total pada sel E3! (berdasarkan tabel Data Penjualan Produk)",
+      "jenis": "Essay",
+      "jawaban": "=C3*D3   atau   =C3*D3 (Harga Satuan × Jumlah). Hasil: 37.500.000",
+      "nilai": 4
+    },
+    {
+      "no": "31b",
+      "soal": "Tuliskan rumus yang digunakan pada sel E7! (Total Penjualan)",
+      "jenis": "Essay",
+      "jawaban": "=SUM(E3:E6)   atau   =E3+E4+E5+E6. Hasil: 47.000.000",
+      "nilai": 4
+    },
+    {
+      "no": "32",
+      "soal": "Jelaskan secara berurutan apa yang dilakukan Arduino ketika menjalankan program (blink LED pin 13)!",
+      "jenis": "Essay",
+      "jawaban": "1. void setup(): dijalankan sekali → pinMode(13, OUTPUT) mengatur pin 13 sebagai output. 2. void loop(): dijalankan berulang → digitalWrite(13, HIGH) nyalakan LED → delay(1000) jeda 1 detik → digitalWrite(13, LOW) matikan LED → delay(1000) jeda 1 detik → ulang terus.",
+      "nilai": 6
+    },
+    {
+      "no": "33",
+      "soal": "Buatlah program Python yang meminta Nama dan umur. Jika umur <=30 tampilkan 'masih muda', jika >30 tampilkan 'sudah TUA'.",
+      "jenis": "Essay",
+      "jawaban": "nama = input(\"Masukkan nama: \")\numur = int(input(\"Masukkan umur: \"))\nif umur <= 30:\n    print(f\"Halo {nama} anda masih muda\")\nelse:\n    print(f\"Halo {nama} anda sudah TUA\")",
+      "nilai": 6
+    },
+    {
+      "no": "34",
+      "soal": "Jelaskan fungsi dari variable dan aturan-aturan dalam pembuatan variabel!",
+      "jenis": "Essay",
+      "jawaban": "Fungsi: menyimpan data/nilai yang dapat diubah dan digunakan kembali dalam program. Aturan: 1) Tidak boleh diawali angka. 2) Tidak boleh menggunakan spasi (gunakan _ atau camelCase). 3) Tidak boleh menggunakan kata kunci (keyword) Python. 4) Case-sensitive. 5) Sebaiknya deskriptif dan bermakna.",
+      "nilai": 5
+    },
+    {
+      "no": "35",
+      "soal": "Sebutkan dan jelaskan lima bagian penting Arduino Uno yang Anda ketahui!",
+      "jenis": "Essay",
+      "jawaban": "Contoh jawaban yang diterima: 1) Digital Pins (0-13) – input/output digital HIGH/LOW. 2) Analog Pins (A0-A5) – membaca sinyal analog. 3) USB Port – upload program & power. 4) Power Pins (5V, 3.3V, GND, Vin) – menyuplai daya. 5) Microcontroller (ATmega328P) – otak pemrosesan. (Reset button, Power jack, dll. juga diterima)",
+      "nilai": 5
+    }
+  ]
+}
