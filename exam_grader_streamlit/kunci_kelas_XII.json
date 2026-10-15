@@ -1,0 +1,268 @@
+{
+  "kelas": "XII",
+  "mata_pelajaran": "Informatics",
+  "sekolah": "SMA Boash Excellent",
+  "tahun": "2026-2027",
+  "total_skor": 100,
+  "soal": [
+    {
+      "no": "1",
+      "soal": "Tag HTML yang digunakan untuk membuat paragraf adalah ....",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "D. <P> (atau <p>)",
+      "nilai": 2
+    },
+    {
+      "no": "2",
+      "soal": "Atribut href pada tag <a> berfungsi untuk ....",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "B. Menentukan alamat tujuan tautan",
+      "nilai": 2
+    },
+    {
+      "no": "3",
+      "soal": "Rumus =if (B2>=75 ; ”Tuntas” ; “Remedial”). Jika B2 = 70, hasil yang ditampilkan?",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "D. Remedial",
+      "nilai": 2
+    },
+    {
+      "no": "4",
+      "soal": "Formula paling tepat untuk menghitung rata-rata nilai dari C2:C25 adalah...",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. =AVERAGE(C2:C25)",
+      "nilai": 2
+    },
+    {
+      "no": "5",
+      "soal": "Tag yang digunakan untuk membuat daftar tidak berurutan adalah ....",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "D. <ul>",
+      "nilai": 2
+    },
+    {
+      "no": "6",
+      "soal": "<p> Saya belajar <strong> HTML.</p> </strong>  Kode tersebut memiliki kesalahan karena ....",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. Urutan penutupan tag tidak benar (nesting error)",
+      "nilai": 2
+    },
+    {
+      "no": "7",
+      "soal": "Manakah penulisan link HTML yang benar?",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. <a href=\\",
+      "nilai": 2
+    },
+    {
+      "no": "8",
+      "soal": "Konsep dasar kerja Arduino (alur penerimaan data, pengolahan, dan hasil) adalah ...",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. Input → Process → Output",
+      "nilai": 2
+    },
+    {
+      "no": "9",
+      "soal": "Pin Arduino Uno untuk kondisi digital HIGH/LOW adalah ...",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. Digital pin",
+      "nilai": 2
+    },
+    {
+      "no": "10",
+      "soal": "Tujuan pinMode(13, OUTPUT) adalah ...",
+      "jenis": "Pilihan Ganda",
+      "jawaban": "C. Menentukan pin 13 sebagai output",
+      "nilai": 2
+    },
+    {
+      "no": "11",
+      "soal": "Tag untuk membuat judul utama pada halaman web",
+      "jenis": "Menjodohkan",
+      "jawaban": "<H1> (atau <h1>)",
+      "nilai": 2
+    },
+    {
+      "no": "12",
+      "soal": "Fungsi yang digunakan untuk menghitung banyaknya cell yang berisi angka",
+      "jenis": "Menjodohkan",
+      "jawaban": "COUNT",
+      "nilai": 2
+    },
+    {
+      "no": "13",
+      "soal": "Fungsi Python untuk menerima masukan dari pengguna",
+      "jenis": "Menjodohkan",
+      "jawaban": "Input() / input()",
+      "nilai": 2
+    },
+    {
+      "no": "14",
+      "soal": "Tempat untuk menyimpan sebuah nilai atau data dalam program",
+      "jenis": "Menjodohkan",
+      "jawaban": "Variabel",
+      "nilai": 2
+    },
+    {
+      "no": "15",
+      "soal": "Tag untuk membuat tautan/link",
+      "jenis": "Menjodohkan",
+      "jawaban": "<a>",
+      "nilai": 2
+    },
+    {
+      "no": "16",
+      "soal": "Rumus =IF(B2>=75,\\",
+      "jenis": "Benar/Salah",
+      "jawaban": "Benar (√)",
+      "nilai": 2
+    },
+    {
+      "no": "17",
+      "soal": "Perintah: nilai=75; if nilai>=75: print(\\",
+      "jenis": "Benar/Salah",
+      "jawaban": "Salah (X) — Akan menampilkan \\",
+      "nilai": 2
+    },
+    {
+      "no": "18",
+      "soal": "elif dapat digunakan untuk memeriksa kondisi alternatif setelah if.",
+      "jenis": "Benar/Salah",
+      "jawaban": "Benar (√)",
+      "nilai": 2
+    },
+    {
+      "no": "19",
+      "soal": "Sensor pada umumnya berfungsi sebagai perangkat output Arduino.",
+      "jenis": "Benar/Salah",
+      "jawaban": "Salah (X) — Sensor berfungsi sebagai perangkat Input.",
+      "nilai": 2
+    },
+    {
+      "no": "20",
+      "soal": "Fungsi loop() hanya dijalankan satu kali setelah Arduino dinyalakan.",
+      "jenis": "Benar/Salah",
+      "jawaban": "Salah (X) — loop() dijalankan berulang-ulang selama Arduino aktif.",
+      "nilai": 2
+    },
+    {
+      "no": "21",
+      "soal": "Fungsi Python yang digunakan untuk menampilkan informasi ke layar adalah __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "print() / print",
+      "nilai": 3
+    },
+    {
+      "no": "22",
+      "soal": "Rumus pada spreadsheet umumnya diawali dengan simbol __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "= (sama dengan)",
+      "nilai": 3
+    },
+    {
+      "no": "23",
+      "soal": "Tag HTML yang digunakan untuk membuat daftar tidak berurutan adalah __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "<ul>",
+      "nilai": 3
+    },
+    {
+      "no": "24",
+      "soal": "Sensor cahaya → Arduino → lampu. Sensor sebagai __________, Arduino sebagai __________, lampu sebagai __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "Input ; Process ; Output",
+      "nilai": 3
+    },
+    {
+      "no": "25",
+      "soal": "Fungsi setup() dijalankan sebanyak __________ kali ketika Arduino mulai bekerja atau di-reset.",
+      "jenis": "Isian Singkat",
+      "jawaban": "1 (satu) kali",
+      "nilai": 3
+    },
+    {
+      "no": "26",
+      "soal": "Rumus =IF(B7>75,\\",
+      "jenis": "Isian Singkat",
+      "jawaban": "TIDAK LULUS (karena kondisi >75, bukan >=)",
+      "nilai": 3
+    },
+    {
+      "no": "27",
+      "soal": "Rumus untuk mencari jumlah total nilai dari data B2 sampai B10 adalah __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "=SUM(B2:B10)",
+      "nilai": 3
+    },
+    {
+      "no": "28",
+      "soal": "Perintah digitalWrite() digunakan untuk memberikan kondisi __________ atau __________ pada digital pin.",
+      "jenis": "Isian Singkat",
+      "jawaban": "HIGH atau LOW",
+      "nilai": 3
+    },
+    {
+      "no": "29",
+      "soal": "Fungsi yang dijalankan secara terus-menerus selama Arduino aktif adalah __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "loop() / void loop()",
+      "nilai": 3
+    },
+    {
+      "no": "30",
+      "soal": "Tag yang digunakan untuk menentukan judul halaman pada tab browser adalah __________.",
+      "jenis": "Isian Singkat",
+      "jawaban": "<title>",
+      "nilai": 3
+    },
+    {
+      "no": "31a",
+      "soal": "Tuliskan rumus untuk menghitung total pada sel E3 (tabel Data Penjualan Produk)!",
+      "jenis": "Essay",
+      "jawaban": "=C3*D3   (Harga Satuan × Jumlah). Hasil: 37.500.000",
+      "nilai": 4
+    },
+    {
+      "no": "31b",
+      "soal": "Tuliskan rumus yang digunakan pada sel E7 (Total Penjualan)!",
+      "jenis": "Essay",
+      "jawaban": "=SUM(E3:E6)   atau   =E3+E4+E5+E6. Hasil: 47.000.000",
+      "nilai": 4
+    },
+    {
+      "no": "32",
+      "soal": "Jelaskan secara berurutan apa yang dilakukan Arduino ketika menjalankan program blink LED pin 13!",
+      "jenis": "Essay",
+      "jawaban": "1. void setup() dijalankan sekali: pinMode(13, OUTPUT) mengatur pin 13 sebagai output. 2. void loop() dijalankan berulang: digitalWrite(13, HIGH) → LED menyala → delay(1000) jeda 1 detik → digitalWrite(13, LOW) → LED mati → delay(1000) → ulang terus.",
+      "nilai": 6
+    },
+    {
+      "no": "33",
+      "soal": "Buat program Python 3 kondisi: nama & umur. ≤13 bau kencur; ≤20 sudah dewasa; selain itu sudah TUA.",
+      "jenis": "Essay",
+      "jawaban": "nama = input(\"Masukkan nama: \")\numur = int(input(\"Masukkan umur: \"))\nif umur <= 13:\n    print(f\"Halo {nama} anda masih bau kencur\")\nelif umur <= 20:\n    print(f\"Halo {nama} anda sudah dewasa\")\nelse:\n    print(f\"Halo {nama} anda sudah TUA\")",
+      "nilai": 6
+    },
+    {
+      "no": "34",
+      "soal": "Buatkan kode HTML agar menampilkan tampilan seperti gambar (judul Pelatih Profesional + paragraf + daftar bernomor 10 pelatih MU)!",
+      "jenis": "Essay",
+      "jawaban": "<!DOCTYPE html>\\n<html>\\n<head><title>Pelatih Profesional</title></head>\\n<body>\\n<h1>Pelatih Profesional</h1>\\n<p>Manchester United selalu memiliki pelatih yang sangat kompeten di bidang nya dari generasi pertama hingga saat ini di antaranya ada</p>\\n<ol>\\n<li>Ernest Mangnall (1903-1912)</li>\\n<li>John Bentley (1912-1914)</li>\\n... (lanjutkan sampai Frank O'Farrell)</li>\\n</ol>\\n</body>\\n</html>",
+      "nilai": 4
+    },
+    {
+      "no": "35a",
+      "soal": "Tuliskan rumus di cell Status sehingga muncul \\",
+      "jenis": "Essay",
+      "jawaban": "=IF(A2=TRUE,\\",
+      "nilai": 3
+    },
+    {
+      "no": "35b",
+      "soal": "Rumus di cell tambahan untuk menghitung jumlah checkbox yang dicentang!",
+      "jenis": "Essay",
+      "jawaban": "=COUNTIF(A2:A8,TRUE)   atau   =COUNTIF(A2:A8,\\",
+      "nilai": 3
+    }
+  ]
+}
