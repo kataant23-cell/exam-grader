@@ -1,0 +1,799 @@
+{
+  "X": {
+    "kelas": "X",
+    "mata_pelajaran": "Informatics",
+    "sekolah": "SMA Boash Excellent",
+    "tahun": "2026-2027",
+    "total_skor": 100,
+    "soal": [
+      {
+        "no": "1",
+        "soal": "Jaringan komputer yang mencakup area terbatas seperti satu ruangan atau satu gedung sekolah disebut..",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. LAN",
+        "nilai": 2
+      },
+      {
+        "no": "2",
+        "soal": "Perangkat interkoneksi yang berfungsi menghubungkan beberapa perangkat dalam satu segmen jaringan lokal dan bekerja berdasarkan alamat MAC adalah …",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Switch",
+        "nilai": 2
+      },
+      {
+        "no": "3",
+        "soal": "Berikut ini merupakan komponen utama dalam suatu jaringan komputer, kecuali …",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "E. OS yang sama pada semua perangkat",
+        "nilai": 2
+      },
+      {
+        "no": "4",
+        "soal": "Apa yang dimaksud dengan alamat MAC dalam proses pengiriman data?",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Identitas permanen yang melekat pada kartu jaringan perangkat",
+        "nilai": 2
+      },
+      {
+        "no": "5",
+        "soal": "Proses pemecahan data berukuran besar menjadi unit-unit kecil yang disebut paket bertujuan untuk …",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Memungkinkan pengiriman yang lebih efisien dan tahan gangguan",
+        "nilai": 2
+      },
+      {
+        "no": "6",
+        "soal": "Alamat yang dapat berubah sesuai konfigurasi jaringan (catatan: stem soal kurang lengkap & opsi tidak selaras)",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "IP Address (Alamat Logis). Jawaban konseptual yang benar. Opsi pada soal tidak memuat pilihan yang sesuai.",
+        "nilai": 2
+      },
+      {
+        "no": "7",
+        "soal": "Topologi jaringan yang setiap perangkatnya terhubung langsung ke satu perangkat pusat (hub atau switch) disebut …",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Star",
+        "nilai": 2
+      },
+      {
+        "no": "8",
+        "soal": "Berikut ini adalah karakteristik topologi Ring, kecuali …",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "E. Setiap perangkat memiliki jalur langsung ke semua perangkat lain",
+        "nilai": 2
+      },
+      {
+        "no": "9",
+        "soal": "Salah satu kelebihan utama topologi Bus adalah …",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Instalasi sederhana dan biaya relatif murah",
+        "nilai": 2
+      },
+      {
+        "no": "10",
+        "soal": "Perbedaan fungsi utama antara Microsoft Word, Excel, dan PowerPoint meliputi …",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "A. Word untuk teks, Excel untuk angka, PowerPoint untuk presentasi visual",
+        "nilai": 2
+      },
+      {
+        "no": "11",
+        "soal": "CTRL + B",
+        "jenis": "Menjodohkan",
+        "jawaban": "Membuat teks menjadi tebal (Bold)",
+        "nilai": 2
+      },
+      {
+        "no": "12",
+        "soal": "Perangkat yang berfungsi menghubungkan beberapa perangkat dalam jaringan local.",
+        "jenis": "Menjodohkan",
+        "jawaban": "Switch",
+        "nilai": 2
+      },
+      {
+        "no": "13",
+        "soal": "CTRL + S",
+        "jenis": "Menjodohkan",
+        "jawaban": "Untuk Menyimpan Document (Save)",
+        "nilai": 2
+      },
+      {
+        "no": "14",
+        "soal": "Perangkat yang menghubungkan beberapa jaringan komputer.",
+        "jenis": "Menjodohkan",
+        "jawaban": "Router",
+        "nilai": 2
+      },
+      {
+        "no": "15",
+        "soal": "CTRL + N",
+        "jenis": "Menjodohkan",
+        "jawaban": "Membuat dokumen baru (New Document). Catatan: Opsi 'Topologi Star' pada kolom kanan tidak berpasangan dengan benar.",
+        "nilai": 2
+      },
+      {
+        "no": "16",
+        "soal": "Jaringan komputer didefinisikan sebagai sistem yang terdiri atas dua atau lebih perangkat komputasi yang bersifat otonom, saling terhubung melalui media transmisi, dan menggunakan protokol komunikasi yang disepakati bersama.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Benar (√)",
+        "nilai": 2
+      },
+      {
+        "no": "17",
+        "soal": "Pada topologi bintang (star), jika satu perangkat mengalami kerusakan, seluruh jaringan akan ikut terhenti karena semua perangkat bergantung pada kabel utama.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Salah (X) — Kerusakan satu perangkat end tidak menghentikan seluruh jaringan. Yang kritis adalah kerusakan perangkat pusat (switch/hub).",
+        "nilai": 2
+      },
+      {
+        "no": "18",
+        "soal": "Data dalam jaringan dikirim secara utuh dalam satu kali pengiriman tanpa perlu dipecah menjadi paket-paket kecil yang dilengkapi alamat pengirim dan penerima.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Salah (X) — Data dipecah menjadi paket-paket kecil.",
+        "nilai": 2
+      },
+      {
+        "no": "19",
+        "soal": "Alamat MAC merupakan identitas permanen yang melekat pada kartu jaringan perangkat dan digunakan dalam komunikasi di dalam satu jaringan lokal.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Benar (√)",
+        "nilai": 2
+      },
+      {
+        "no": "20",
+        "soal": "Media transmisi dalam jaringan komputer hanya dapat berupa kabel fisik seperti UTP atau serat optik; media nirkabel tidak termasuk dalam kategori media transmisi.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Salah (X) — Media nirkabel (wireless) juga termasuk media transmisi.",
+        "nilai": 2
+      },
+      {
+        "no": "21",
+        "soal": "Data yang berukuran besar sebelum dikirim melalui jaringan akan dipecah menjadi unit-unit kecil yang disebut __________",
+        "jenis": "Isian Singkat",
+        "jawaban": "paket (atau packet / data packet)",
+        "nilai": 3
+      },
+      {
+        "no": "22",
+        "soal": "Sebutkan dua jenis alamat yang digunakan dalam mekanisme pengiriman data pada jaringan komputer: __________ dan __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "MAC Address (Alamat Fisik) dan IP Address (Alamat Logis)",
+        "nilai": 3
+      },
+      {
+        "no": "23",
+        "soal": "Sebuah perusahaan memiliki jaringan yang sangat besar dan tersusun dalam beberapa bagian atau lantai. Jaringan tersebut membutuhkan skalabilitas dan struktur hierarkis. Topologi yang sesuai adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "Tree / Hierarchical / Topologi Pohon",
+        "nilai": 3
+      },
+      {
+        "no": "24",
+        "soal": "Pada topologi Star, kerusakan satu kabel biasanya hanya memengaruhi satu perangkat. Hal ini terjadi karena setiap perangkat memiliki __________ menuju perangkat pusat.",
+        "jenis": "Isian Singkat",
+        "jawaban": "jalur khusus / dedicated path / koneksi sendiri / kabel tersendiri",
+        "nilai": 3
+      },
+      {
+        "no": "25",
+        "soal": "Sebuah laboratorium komputer sekolah memiliki banyak komputer dan membutuhkan jaringan yang mudah ditambah serta mudah dilakukan troubleshooting. Berdasarkan karakteristik materi, topologi yang paling sesuai adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "Star / Topologi Bintang",
+        "nilai": 3
+      },
+      {
+        "no": "26",
+        "soal": "Tombol kombinasi pada keyboard yang digunakan untuk membuat teks menjadi cetak miring adalah __________",
+        "jenis": "Isian Singkat",
+        "jawaban": "CTRL + I",
+        "nilai": 3
+      },
+      {
+        "no": "27",
+        "soal": "Jenis pemutus seksi yang berfungsi memindahkan kursor ke halaman baru sekaligus membuat seksi baru yang independen adalah __________",
+        "jenis": "Isian Singkat",
+        "jawaban": "Section Break (Next Page) / Pemutus Seksi Halaman Berikutnya",
+        "nilai": 3
+      },
+      {
+        "no": "28",
+        "soal": "Sebuah dokumen memiliki format nomor halaman Romawi di bagian awal dan angka Arab di bagian isi. Jika perubahan nomor halaman di bagian isi membuat nomor halaman di bagian awal ikut berubah, fitur link antar-seksi yang belum dimatikan pada Header & Footer adalah __________",
+        "jenis": "Isian Singkat",
+        "jawaban": "Link to Previous / Link ke Sebelumnya",
+        "nilai": 3
+      },
+      {
+        "no": "29",
+        "soal": "Fitur pencarian kata secara cepat yang dapat diakses menggunakan Shortcut __________",
+        "jenis": "Isian Singkat",
+        "jawaban": "CTRL + F",
+        "nilai": 3
+      },
+      {
+        "no": "30",
+        "soal": "Penyebab utama seluruh jaringan pada topologi Bus akan lumpuh total ketika kabel utamanya terputus adalah karena aliran data di dalam kabel mengalami __________",
+        "jenis": "Isian Singkat",
+        "jawaban": "putus / terputus / interrupted / collision domain terputus (aliran data terhenti)",
+        "nilai": 3
+      },
+      {
+        "no": "31",
+        "soal": "(Soal isian terakhir terkait topologi Bus / aliran data — penomoran pada dokumen asli)",
+        "jenis": "Isian Singkat",
+        "jawaban": "Lihat soal 30 (penomoran dokumen sedikit tidak berurutan). Jawaban sama: aliran data terputus / putus.",
+        "nilai": 3
+      },
+      {
+        "no": "32a",
+        "soal": "Sebutkan nama dan fungsi dari perangkat pusat yang berada di tengah-tengah jaringan tersebut!",
+        "jenis": "Essay",
+        "jawaban": "Nama: Switch (atau Switching Hub). Fungsi: Menghubungkan beberapa perangkat dalam satu jaringan lokal (LAN) dan meneruskan frame data berdasarkan alamat MAC tujuan ke port yang tepat.",
+        "nilai": 3
+      },
+      {
+        "no": "32b",
+        "soal": "Terdapat kondisi komputer 4 ingin mengirim data kepada komputer 1, tuliskan alur pengiriman data tersebut hingga data tersebut bisa sampai ke penerima!",
+        "jenis": "Essay",
+        "jawaban": "Alur: Device 4 → Switch (Switch membaca MAC Address tujuan) → Device 1. Switch meneruskan frame hanya ke port yang terhubung dengan Device 1 (unicast berdasarkan tabel MAC).",
+        "nilai": 4
+      },
+      {
+        "no": "33",
+        "soal": "Seorang pengguna menganggap bahwa alamat IP (IP Address) dan alamat MAC (MAC Address) adalah hal yang persis sama karena keduanya berfungsi sebagai alamat. Berikan pendapatmu mengapa anggapan tersebut tidak tepat!",
+        "jenis": "Essay",
+        "jawaban": "Anggapan tersebut tidak tepat karena: 1) MAC Address adalah alamat fisik (hardware) permanen yang tertanam di NIC, digunakan di Data Link Layer, unik secara global. 2) IP Address adalah alamat logis yang dapat diubah/dikonfigurasi, digunakan di Network Layer, bersifat hierarchical. Keduanya bekerja di layer berbeda dan memiliki sifat berbeda.",
+        "nilai": 5
+      },
+      {
+        "no": "34",
+        "soal": "Terdapat kondisi sebuah paket data dikirimkan dari Laptop A (di Rumah) ke Server Web B (di Luar Negeri). Bagaimana alur proses pengiriman pada kedua perangkat ini? Apakah memerlukan perangkat router pada prosesnya?",
+        "jenis": "Essay",
+        "jawaban": "Alur: Laptop A → Router rumah → Modem/ISP lokal → jaringan backbone internet (melewati banyak router) → ISP tujuan → Router server → Server Web B. Ya, sangat memerlukan perangkat Router karena pengiriman lintas jaringan (berbeda subnet/AS) membutuhkan proses routing berdasarkan IP Address.",
+        "nilai": 5
+      },
+      {
+        "no": "35",
+        "soal": "Sebutkan dan jelaskan 2 jenis media transmisi (berdasarkan fisik jalurnya) yang digunakan untuk mengirimkan paket data dalam jaringan komputer, beserta contohnya masing-masing!",
+        "jenis": "Essay",
+        "jawaban": "1. Guided Media (Wired/Kabel): sinyal ditransmisikan melalui media fisik berpemandu. Contoh: UTP/STP, Coaxial Cable, Fiber Optic. 2. Unguided Media (Wireless/Nirkabel): sinyal ditransmisikan melalui udara/ruang bebas. Contoh: Gelombang radio (WiFi, Bluetooth), Infrared, Microwave, Satelit.",
+        "nilai": 5
+      },
+      {
+        "no": "36",
+        "soal": "Sebutkan dan jelaskan fungsi dari 3 elemen utama antarmuka Microsoft Word berikut: Ribbon, Navigation Pane, dan Status Bar!",
+        "jenis": "Essay",
+        "jawaban": "1. Ribbon: Pita menu horizontal berisi tab (Home, Insert, dll.) dan grup perintah untuk mengakses fitur Word dengan cepat. 2. Navigation Pane: Panel di sisi kiri yang menampilkan outline dokumen, heading, halaman, atau hasil pencarian untuk navigasi cepat. 3. Status Bar: Baris di bagian bawah jendela yang menampilkan informasi status dokumen (nomor halaman, jumlah kata, bahasa, zoom, mode tampilan, dll.).",
+        "nilai": 5
+      }
+    ]
+  },
+  "XI": {
+    "kelas": "XI",
+    "mata_pelajaran": "Informatics",
+    "sekolah": "SMA Boash Excellent",
+    "tahun": "2026-2027",
+    "total_skor": 100,
+    "soal": [
+      {
+        "no": "1",
+        "soal": "Seorang siswa membuat file spreadsheet bernama Data Nilai Kelas X.xlsx yang berisi tiga sheet (Data Siswa, Nilai, Rekap). Pernyataan yang paling tepat adalah ....",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Data Nilai Kelas X.xlsx merupakan workbook yang di dalamnya terdapat beberapa worksheet",
+        "nilai": 2
+      },
+      {
+        "no": "2",
+        "soal": "Apa fungsi utama penambahan simbol dolar ($) pada alamat sel, contohnya $A$1, saat menuliskan rumus di spreadsheet?",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "D. Mengunci posisi baris dan kolom (absolute reference)",
+        "nilai": 2
+      },
+      {
+        "no": "3",
+        "soal": "Rumus =if (B2>=75,”Tuntas”, “Remedial”). Jika angka pada sel B2 adalah 70, maka hasil yang ditampilkan?",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "D. Remedial",
+        "nilai": 2
+      },
+      {
+        "no": "4",
+        "soal": "Formula yang paling tepat untuk menghitung rata-rata nilai dari rentang sel C2 hingga C25 adalah...",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. =AVERAGE(C2:C25)",
+        "nilai": 2
+      },
+      {
+        "no": "5",
+        "soal": "Apa yang dimaksud dengan dekomposisi dalam berpikir komputasional?",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Memecah masalah besar menjadi bagian-bagian yang lebih kecil dan mudah dikelola",
+        "nilai": 2
+      },
+      {
+        "no": "6",
+        "soal": "Algoritma dalam berpikir komputasional paling tepat diartikan sebagai…",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Serangkaian langkah berurutan dan logis untuk menyelesaikan masalah",
+        "nilai": 2
+      },
+      {
+        "no": "7",
+        "soal": "Manakah pasangan yang paling tepat antara fondasi berpikir komputasional dengan contoh penerapannya?",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. Pengenalan pola – menemukan kesamaan cara mengurutkan data",
+        "nilai": 2
+      },
+      {
+        "no": "8",
+        "soal": "Konsep dasar kerja Arduino yang menggambarkan alur penerimaan data, pengolahan, dan hasil adalah ...",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. Input → Process → Output",
+        "nilai": 2
+      },
+      {
+        "no": "9",
+        "soal": "Pin pada Arduino Uno yang digunakan untuk memberikan atau membaca kondisi digital seperti HIGH dan LOW adalah ...",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. Digital pin",
+        "nilai": 2
+      },
+      {
+        "no": "10",
+        "soal": "Tujuan penggunaan pinMode(13, OUTPUT) adalah ...",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. Menentukan pin 13 sebagai output",
+        "nilai": 2
+      },
+      {
+        "no": "11",
+        "soal": "Bagian program yang dijalankan berulang-ulang selama Arduino aktif",
+        "jenis": "Menjodohkan",
+        "jawaban": "Loop() / void loop()",
+        "nilai": 2
+      },
+      {
+        "no": "12",
+        "soal": "Perintah Python yang digunakan untuk membuat percabangan pertama.",
+        "jenis": "Menjodohkan",
+        "jawaban": "IF",
+        "nilai": 2
+      },
+      {
+        "no": "13",
+        "soal": "Perintah yang digunakan untuk menentukan sebuah pin sebagai INPUT atau OUTPUT.",
+        "jenis": "Menjodohkan",
+        "jawaban": "PinMode() / pinMode()",
+        "nilai": 2
+      },
+      {
+        "no": "14",
+        "soal": "Digunakan ketika kondisi pada if tidak terpenuhi.",
+        "jenis": "Menjodohkan",
+        "jawaban": "Else",
+        "nilai": 2
+      },
+      {
+        "no": "15",
+        "soal": "Bagian spreadsheet yang tersusun secara horizontal dan diberi nomor 1, 2, 3, dan seterusnya.",
+        "jenis": "Menjodohkan",
+        "jawaban": "Row / Baris",
+        "nilai": 2
+      },
+      {
+        "no": "16",
+        "soal": "Rumus =IF(B2>=75,\\",
+        "jenis": "Benar/Salah",
+        "jawaban": "Benar (√)",
+        "nilai": 2
+      },
+      {
+        "no": "17",
+        "soal": "Percabangan digunakan agar program dapat memilih tindakan berdasarkan suatu kondisi.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Benar (√)",
+        "nilai": 2
+      },
+      {
+        "no": "18",
+        "soal": "Variabel digunakan untuk menyimpan data yang dapat digunakan dan diolah oleh program.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Benar (√)",
+        "nilai": 2
+      },
+      {
+        "no": "19",
+        "soal": "Fungsi input() dapat digunakan untuk menerima masukan dari pengguna.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Benar (√)",
+        "nilai": 2
+      },
+      {
+        "no": "20",
+        "soal": "Percabangan if-else hanya dapat digunakan untuk memproses data berupa angka.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Salah (X) — if-else dapat digunakan untuk berbagai tipe data (string, boolean, dll).",
+        "nilai": 2
+      },
+      {
+        "no": "21",
+        "soal": "Fungsi Python yang digunakan untuk menampilkan informasi ke layar adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "print() / print",
+        "nilai": 3
+      },
+      {
+        "no": "22",
+        "soal": "Langkah-langkah logis dan sistematis untuk menyelesaikan suatu masalah disebut __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "Algoritma",
+        "nilai": 3
+      },
+      {
+        "no": "23",
+        "soal": "Operator % digunakan untuk mendapatkan __________ hasil pembagian.",
+        "jenis": "Isian Singkat",
+        "jawaban": "sisa (remainder / modulo)",
+        "nilai": 3
+      },
+      {
+        "no": "24",
+        "soal": "Sensor cahaya → Arduino → lampu. Sensor cahaya berperan sebagai __________, Arduino sebagai __________, dan lampu sebagai __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "Input ; Process ; Output",
+        "nilai": 3
+      },
+      {
+        "no": "25",
+        "soal": "Fungsi setup() pada program Arduino dijalankan sebanyak __________ kali ketika Arduino mulai bekerja atau di-reset.",
+        "jenis": "Isian Singkat",
+        "jawaban": "1 (satu) kali",
+        "nilai": 3
+      },
+      {
+        "no": "26",
+        "soal": "Jika nilai B7 = 75, rumus =IF(B7>=75,\\",
+        "jenis": "Isian Singkat",
+        "jawaban": "LULUS",
+        "nilai": 3
+      },
+      {
+        "no": "27",
+        "soal": "Jika ingin mencari jumlah total nilai dari data B2 sampai B10, rumus yang digunakan adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "=SUM(B2:B10)",
+        "nilai": 3
+      },
+      {
+        "no": "28",
+        "soal": "Perintah digitalWrite() digunakan untuk memberikan kondisi __________ atau __________ pada digital pin.",
+        "jenis": "Isian Singkat",
+        "jawaban": "HIGH atau LOW",
+        "nilai": 3
+      },
+      {
+        "no": "29",
+        "soal": "Fungsi yang dijalankan secara terus-menerus selama Arduino aktif adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "loop() / void loop()",
+        "nilai": 3
+      },
+      {
+        "no": "30",
+        "soal": "Rumus pada spreadsheet umumnya diawali dengan simbol __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "= (sama dengan)",
+        "nilai": 3
+      },
+      {
+        "no": "31a",
+        "soal": "Tuliskan rumus yang digunakan untuk menghitung total pada sel E3! (berdasarkan tabel Data Penjualan Produk)",
+        "jenis": "Essay",
+        "jawaban": "=C3*D3   atau   =C3*D3 (Harga Satuan × Jumlah). Hasil: 37.500.000",
+        "nilai": 4
+      },
+      {
+        "no": "31b",
+        "soal": "Tuliskan rumus yang digunakan pada sel E7! (Total Penjualan)",
+        "jenis": "Essay",
+        "jawaban": "=SUM(E3:E6)   atau   =E3+E4+E5+E6. Hasil: 47.000.000",
+        "nilai": 4
+      },
+      {
+        "no": "32",
+        "soal": "Jelaskan secara berurutan apa yang dilakukan Arduino ketika menjalankan program (blink LED pin 13)!",
+        "jenis": "Essay",
+        "jawaban": "1. void setup(): dijalankan sekali → pinMode(13, OUTPUT) mengatur pin 13 sebagai output. 2. void loop(): dijalankan berulang → digitalWrite(13, HIGH) nyalakan LED → delay(1000) jeda 1 detik → digitalWrite(13, LOW) matikan LED → delay(1000) jeda 1 detik → ulang terus.",
+        "nilai": 6
+      },
+      {
+        "no": "33",
+        "soal": "Buatlah program Python yang meminta Nama dan umur. Jika umur <=30 tampilkan 'masih muda', jika >30 tampilkan 'sudah TUA'.",
+        "jenis": "Essay",
+        "jawaban": "nama = input(\"Masukkan nama: \")\numur = int(input(\"Masukkan umur: \"))\nif umur <= 30:\n    print(f\"Halo {nama} anda masih muda\")\nelse:\n    print(f\"Halo {nama} anda sudah TUA\")",
+        "nilai": 6
+      },
+      {
+        "no": "34",
+        "soal": "Jelaskan fungsi dari variable dan aturan-aturan dalam pembuatan variabel!",
+        "jenis": "Essay",
+        "jawaban": "Fungsi: menyimpan data/nilai yang dapat diubah dan digunakan kembali dalam program. Aturan: 1) Tidak boleh diawali angka. 2) Tidak boleh menggunakan spasi (gunakan _ atau camelCase). 3) Tidak boleh menggunakan kata kunci (keyword) Python. 4) Case-sensitive. 5) Sebaiknya deskriptif dan bermakna.",
+        "nilai": 5
+      },
+      {
+        "no": "35",
+        "soal": "Sebutkan dan jelaskan lima bagian penting Arduino Uno yang Anda ketahui!",
+        "jenis": "Essay",
+        "jawaban": "Contoh jawaban yang diterima: 1) Digital Pins (0-13) – input/output digital HIGH/LOW. 2) Analog Pins (A0-A5) – membaca sinyal analog. 3) USB Port – upload program & power. 4) Power Pins (5V, 3.3V, GND, Vin) – menyuplai daya. 5) Microcontroller (ATmega328P) – otak pemrosesan. (Reset button, Power jack, dll. juga diterima)",
+        "nilai": 5
+      }
+    ]
+  },
+  "XII": {
+    "kelas": "XII",
+    "mata_pelajaran": "Informatics",
+    "sekolah": "SMA Boash Excellent",
+    "tahun": "2026-2027",
+    "total_skor": 100,
+    "soal": [
+      {
+        "no": "1",
+        "soal": "Tag HTML yang digunakan untuk membuat paragraf adalah ....",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "D. <P> (atau <p>)",
+        "nilai": 2
+      },
+      {
+        "no": "2",
+        "soal": "Atribut href pada tag <a> berfungsi untuk ....",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "B. Menentukan alamat tujuan tautan",
+        "nilai": 2
+      },
+      {
+        "no": "3",
+        "soal": "Rumus =if (B2>=75 ; ”Tuntas” ; “Remedial”). Jika B2 = 70, hasil yang ditampilkan?",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "D. Remedial",
+        "nilai": 2
+      },
+      {
+        "no": "4",
+        "soal": "Formula paling tepat untuk menghitung rata-rata nilai dari C2:C25 adalah...",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. =AVERAGE(C2:C25)",
+        "nilai": 2
+      },
+      {
+        "no": "5",
+        "soal": "Tag yang digunakan untuk membuat daftar tidak berurutan adalah ....",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "D. <ul>",
+        "nilai": 2
+      },
+      {
+        "no": "6",
+        "soal": "<p> Saya belajar <strong> HTML.</p> </strong>  Kode tersebut memiliki kesalahan karena ....",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. Urutan penutupan tag tidak benar (nesting error)",
+        "nilai": 2
+      },
+      {
+        "no": "7",
+        "soal": "Manakah penulisan link HTML yang benar?",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. <a href=\\",
+        "nilai": 2
+      },
+      {
+        "no": "8",
+        "soal": "Konsep dasar kerja Arduino (alur penerimaan data, pengolahan, dan hasil) adalah ...",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. Input → Process → Output",
+        "nilai": 2
+      },
+      {
+        "no": "9",
+        "soal": "Pin Arduino Uno untuk kondisi digital HIGH/LOW adalah ...",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. Digital pin",
+        "nilai": 2
+      },
+      {
+        "no": "10",
+        "soal": "Tujuan pinMode(13, OUTPUT) adalah ...",
+        "jenis": "Pilihan Ganda",
+        "jawaban": "C. Menentukan pin 13 sebagai output",
+        "nilai": 2
+      },
+      {
+        "no": "11",
+        "soal": "Tag untuk membuat judul utama pada halaman web",
+        "jenis": "Menjodohkan",
+        "jawaban": "<H1> (atau <h1>)",
+        "nilai": 2
+      },
+      {
+        "no": "12",
+        "soal": "Fungsi yang digunakan untuk menghitung banyaknya cell yang berisi angka",
+        "jenis": "Menjodohkan",
+        "jawaban": "COUNT",
+        "nilai": 2
+      },
+      {
+        "no": "13",
+        "soal": "Fungsi Python untuk menerima masukan dari pengguna",
+        "jenis": "Menjodohkan",
+        "jawaban": "Input() / input()",
+        "nilai": 2
+      },
+      {
+        "no": "14",
+        "soal": "Tempat untuk menyimpan sebuah nilai atau data dalam program",
+        "jenis": "Menjodohkan",
+        "jawaban": "Variabel",
+        "nilai": 2
+      },
+      {
+        "no": "15",
+        "soal": "Tag untuk membuat tautan/link",
+        "jenis": "Menjodohkan",
+        "jawaban": "<a>",
+        "nilai": 2
+      },
+      {
+        "no": "16",
+        "soal": "Rumus =IF(B2>=75,\\",
+        "jenis": "Benar/Salah",
+        "jawaban": "Benar (√)",
+        "nilai": 2
+      },
+      {
+        "no": "17",
+        "soal": "Perintah: nilai=75; if nilai>=75: print(\\",
+        "jenis": "Benar/Salah",
+        "jawaban": "Salah (X) — Akan menampilkan \\",
+        "nilai": 2
+      },
+      {
+        "no": "18",
+        "soal": "elif dapat digunakan untuk memeriksa kondisi alternatif setelah if.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Benar (√)",
+        "nilai": 2
+      },
+      {
+        "no": "19",
+        "soal": "Sensor pada umumnya berfungsi sebagai perangkat output Arduino.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Salah (X) — Sensor berfungsi sebagai perangkat Input.",
+        "nilai": 2
+      },
+      {
+        "no": "20",
+        "soal": "Fungsi loop() hanya dijalankan satu kali setelah Arduino dinyalakan.",
+        "jenis": "Benar/Salah",
+        "jawaban": "Salah (X) — loop() dijalankan berulang-ulang selama Arduino aktif.",
+        "nilai": 2
+      },
+      {
+        "no": "21",
+        "soal": "Fungsi Python yang digunakan untuk menampilkan informasi ke layar adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "print() / print",
+        "nilai": 3
+      },
+      {
+        "no": "22",
+        "soal": "Rumus pada spreadsheet umumnya diawali dengan simbol __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "= (sama dengan)",
+        "nilai": 3
+      },
+      {
+        "no": "23",
+        "soal": "Tag HTML yang digunakan untuk membuat daftar tidak berurutan adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "<ul>",
+        "nilai": 3
+      },
+      {
+        "no": "24",
+        "soal": "Sensor cahaya → Arduino → lampu. Sensor sebagai __________, Arduino sebagai __________, lampu sebagai __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "Input ; Process ; Output",
+        "nilai": 3
+      },
+      {
+        "no": "25",
+        "soal": "Fungsi setup() dijalankan sebanyak __________ kali ketika Arduino mulai bekerja atau di-reset.",
+        "jenis": "Isian Singkat",
+        "jawaban": "1 (satu) kali",
+        "nilai": 3
+      },
+      {
+        "no": "26",
+        "soal": "Rumus =IF(B7>75,\\",
+        "jenis": "Isian Singkat",
+        "jawaban": "TIDAK LULUS (karena kondisi >75, bukan >=)",
+        "nilai": 3
+      },
+      {
+        "no": "27",
+        "soal": "Rumus untuk mencari jumlah total nilai dari data B2 sampai B10 adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "=SUM(B2:B10)",
+        "nilai": 3
+      },
+      {
+        "no": "28",
+        "soal": "Perintah digitalWrite() digunakan untuk memberikan kondisi __________ atau __________ pada digital pin.",
+        "jenis": "Isian Singkat",
+        "jawaban": "HIGH atau LOW",
+        "nilai": 3
+      },
+      {
+        "no": "29",
+        "soal": "Fungsi yang dijalankan secara terus-menerus selama Arduino aktif adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "loop() / void loop()",
+        "nilai": 3
+      },
+      {
+        "no": "30",
+        "soal": "Tag yang digunakan untuk menentukan judul halaman pada tab browser adalah __________.",
+        "jenis": "Isian Singkat",
+        "jawaban": "<title>",
+        "nilai": 3
+      },
+      {
+        "no": "31a",
+        "soal": "Tuliskan rumus untuk menghitung total pada sel E3 (tabel Data Penjualan Produk)!",
+        "jenis": "Essay",
+        "jawaban": "=C3*D3   (Harga Satuan × Jumlah). Hasil: 37.500.000",
+        "nilai": 4
+      },
+      {
+        "no": "31b",
+        "soal": "Tuliskan rumus yang digunakan pada sel E7 (Total Penjualan)!",
+        "jenis": "Essay",
+        "jawaban": "=SUM(E3:E6)   atau   =E3+E4+E5+E6. Hasil: 47.000.000",
+        "nilai": 4
+      },
+      {
+        "no": "32",
+        "soal": "Jelaskan secara berurutan apa yang dilakukan Arduino ketika menjalankan program blink LED pin 13!",
+        "jenis": "Essay",
+        "jawaban": "1. void setup() dijalankan sekali: pinMode(13, OUTPUT) mengatur pin 13 sebagai output. 2. void loop() dijalankan berulang: digitalWrite(13, HIGH) → LED menyala → delay(1000) jeda 1 detik → digitalWrite(13, LOW) → LED mati → delay(1000) → ulang terus.",
+        "nilai": 6
+      },
+      {
+        "no": "33",
+        "soal": "Buat program Python 3 kondisi: nama & umur. ≤13 bau kencur; ≤20 sudah dewasa; selain itu sudah TUA.",
+        "jenis": "Essay",
+        "jawaban": "nama = input(\"Masukkan nama: \")\numur = int(input(\"Masukkan umur: \"))\nif umur <= 13:\n    print(f\"Halo {nama} anda masih bau kencur\")\nelif umur <= 20:\n    print(f\"Halo {nama} anda sudah dewasa\")\nelse:\n    print(f\"Halo {nama} anda sudah TUA\")",
+        "nilai": 6
+      },
+      {
+        "no": "34",
+        "soal": "Buatkan kode HTML agar menampilkan tampilan seperti gambar (judul Pelatih Profesional + paragraf + daftar bernomor 10 pelatih MU)!",
+        "jenis": "Essay",
+        "jawaban": "<!DOCTYPE html>\\n<html>\\n<head><title>Pelatih Profesional</title></head>\\n<body>\\n<h1>Pelatih Profesional</h1>\\n<p>Manchester United selalu memiliki pelatih yang sangat kompeten di bidang nya dari generasi pertama hingga saat ini di antaranya ada</p>\\n<ol>\\n<li>Ernest Mangnall (1903-1912)</li>\\n<li>John Bentley (1912-1914)</li>\\n... (lanjutkan sampai Frank O'Farrell)</li>\\n</ol>\\n</body>\\n</html>",
+        "nilai": 4
+      },
+      {
+        "no": "35a",
+        "soal": "Tuliskan rumus di cell Status sehingga muncul \\",
+        "jenis": "Essay",
+        "jawaban": "=IF(A2=TRUE,\\",
+        "nilai": 3
+      },
+      {
+        "no": "35b",
+        "soal": "Rumus di cell tambahan untuk menghitung jumlah checkbox yang dicentang!",
+        "jenis": "Essay",
+        "jawaban": "=COUNTIF(A2:A8,TRUE)   atau   =COUNTIF(A2:A8,\\",
+        "nilai": 3
+      }
+    ]
+  }
+}
